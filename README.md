@@ -49,7 +49,7 @@ Projeto desenvolvido com Vite.js [Veja a documentação oficial](https://vitejs.
 
 ## Deploy
 
-[Veja o projeto funcionando](travel-planner-eight-nu.vercel.app)
+[Veja o projeto funcionando](https://travel-planner-eight-nu.vercel.app/)
 
 ## Rodando localmente
 
