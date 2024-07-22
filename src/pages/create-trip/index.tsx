@@ -166,8 +166,10 @@ export function CreateTripPage() {
         <ConfirmTripModal
           closeConfirmTripModal={closeConfirmTripModal}
           createTrip={createTrip}
-          setOwnerName={setOwnerName}
           setOwnerEmail={setOwnerEmail}
+          setOwnerName={setOwnerName}
+          destination={destination}
+          eventStartAndEndDates={eventStartAndEndDates}
         />
       )}
     </div>
